@@ -16,13 +16,15 @@ Statistics
 
 ## Current Research
 
-### Beyond Shared Geometry: Discovering Approximate Group Representations in Neural Network Activations
+### Beyond Shared Geometry: Predictive Recovery, Exact Actions, and Registration Preference in Language-Model Representations
 
-My current research studies whether semantic transformations can be represented by approximately compositional operators acting on LLM hidden states, and whether this structure generalizes across prompts, concepts, and layers beyond simple geometric baselines.
+This paper studies finite-group transformations in the hidden representations of frozen language models. It distinguishes prediction in held-out contexts, compatibility with exact orthogonal group actions on fixed representation banks, and preference for prescribed state correspondences over alternatives that obey the same group laws.
 
-The project focuses on transformer hidden representations, activation-space geometry, equivariance, operator learning, composition, inverse consistency, and statistical validation of representation structure. The goal is to determine whether transformations of meaning correspond to structured geometric transformations inside neural networks, while testing the robustness of the observed structure against geometric baselines and alternative explanations.
+The theory provides lower and upper bounds on the minimum prediction error over exact orthogonal actions on a fixed representation bank. Experiments with weekday and square-corner transformations show that registration preference depends on retained dimension and state-invariant components. Accurate predictive maps alone do not establish that the model uses the corresponding transformation mechanism.
 
-*Ongoing research.*
+[Paper (Zenodo)](https://doi.org/10.5281/zenodo.24238471) | [Code and experimental data (GitHub)](https://github.com/yangpengchengstat/beyond-shared-geometry)
+
+*Preprint available; research code and retained experimental evidence released.*
 
 ### Robust Multi-Objective Challenger Search
 
