@@ -18,7 +18,7 @@ This paper examines what successful transformation predictors reveal about langu
 
 The theory bounds the minimum fixed-bank prediction error under exact orthogonal action constraints. Weekday and square-corner experiments show that registration preference depends on retained dimension and state-invariant components. Accurate prediction alone does not establish the model's underlying computational mechanism.
 
-[Paper](https://doi.org/10.5281/zenodo.24238471) · [Code, saved data and reproduction guide](https://github.com/yangpengchengstat/beyond-shared-geometry)
+[Paper](https://doi.org/10.5281/zenodo.24238471) · [Code & reproduction guide](https://github.com/yangpengchengstat/beyond-shared-geometry) · [Dataset (Hugging Face)](https://huggingface.co/datasets/yangpengchengstat/beyond-shared-geometry)
 
 *2026 preprint · Code and retained experimental evidence released*
 
@@ -35,7 +35,7 @@ This project searches for alternative XGBoost models by jointly selecting featur
 ## Selected Publications & Preprints
 
 - **[Beyond Shared Geometry: Predictive Recovery, Exact Actions, and Registration Preference in Language-Model Representations](https://doi.org/10.5281/zenodo.24238471)**  
-  **Pengcheng Yang** · *Zenodo preprint, 2026* · [Paper](https://doi.org/10.5281/zenodo.24238471) · [Code & data](https://github.com/yangpengchengstat/beyond-shared-geometry)
+  **Pengcheng Yang** · *Zenodo preprint, 2026* · [Paper](https://doi.org/10.5281/zenodo.24238471) · [Code](https://github.com/yangpengchengstat/beyond-shared-geometry) · [Dataset (Hugging Face)](https://huggingface.co/datasets/yangpengchengstat/beyond-shared-geometry)
 
 - **[Integrating CORUM and co-fractionation mass spectrometry to create enhanced benchmarks for protein complex predictions](https://doi.org/10.1093/bib/bbaf154)**  
   **Pengcheng Yang**, Youngwoo Lee, Daniel B. Szymanski, and Jun Xie.  
