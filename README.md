@@ -35,12 +35,14 @@ This project searches for alternative XGBoost models by jointly selecting featur
 ## Selected Publications & Preprints
 
 - **[Beyond Shared Geometry: Predictive Recovery, Exact Actions, and Registration Preference in Language-Model Representations](https://doi.org/10.5281/zenodo.24238471)**  
-  Pengcheng Yang · *Zenodo preprint, 2026* · [Paper](https://doi.org/10.5281/zenodo.24238471) · [Code & data](https://github.com/yangpengchengstat/beyond-shared-geometry)
+  **Pengcheng Yang** · *Zenodo preprint, 2026* · [Paper](https://doi.org/10.5281/zenodo.24238471) · [Code & data](https://github.com/yangpengchengstat/beyond-shared-geometry)
 
-- **[Integrating CORUM and Co-Fractionation Mass Spectrometry to Create Enhanced Benchmarks for Protein Complex Predictions](https://doi.org/10.1093/bib/bbaf154)**  
-  *Briefings in Bioinformatics*, 2025.
+- **[Integrating CORUM and co-fractionation mass spectrometry to create enhanced benchmarks for protein complex predictions](https://doi.org/10.1093/bib/bbaf154)**  
+  **Pengcheng Yang**, Youngwoo Lee, Daniel B. Szymanski, and Jun Xie.  
+  *Briefings in Bioinformatics*, 26(2), bbaf154, 2025.
 
-- **[Feature Representation Learning for mRNA-Protein Relationship Pattern Analysis](https://doi.org/10.1360/SSM-2024-0294)**  
+- **[特征表征学习展现mRNA-蛋白质的复杂关系模式](https://doi.org/10.1360/SSM-2024-0294)**  
+  **Pengcheng Yang**, Youngwoo Lee, Daniel Szymanski, and Jun Xie.  
   *Scientia Sinica Mathematica*, 2025.
 
 My earlier research includes representation learning, clustering, protein-complex analysis, and statistical methods for high-dimensional biological data. Repositories associated with earlier publications are retained as research artifacts for reproducibility.
