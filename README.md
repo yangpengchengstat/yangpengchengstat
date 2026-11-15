@@ -41,8 +41,8 @@ This project searches for alternative XGBoost models by jointly selecting featur
   **Pengcheng Yang**, Youngwoo Lee, Daniel B. Szymanski, and Jun Xie.  
   *Briefings in Bioinformatics*, 26(2), bbaf154, 2025.
 
-- **[特征表征学习展现mRNA-蛋白质的复杂关系模式](https://doi.org/10.1360/SSM-2024-0294)**  
+- **[Feature Representation Learning Reveals Complex Patterns in mRNA–Protein Relationships](https://doi.org/10.1360/SSM-2024-0294)**  
   **Pengcheng Yang**, Youngwoo Lee, Daniel Szymanski, and Jun Xie.  
-  *Scientia Sinica Mathematica*, 2025.
+  *Scientia Sinica Mathematica*, 2025. (Title translated from Chinese.)
 
 My earlier research includes representation learning, clustering, protein-complex analysis, and statistical methods for high-dimensional biological data. Repositories associated with earlier publications are retained as research artifacts for reproducibility.
