@@ -32,7 +32,10 @@ This project searches for alternative XGBoost models by jointly selecting featur
 
 *Research code release · Five-benchmark experiment completed*
 
-## Selected Publications
+## Selected Publications & Preprints
+
+- **[Beyond Shared Geometry: Predictive Recovery, Exact Actions, and Registration Preference in Language-Model Representations](https://doi.org/10.5281/zenodo.24238471)**  
+  Pengcheng Yang · *Zenodo preprint, 2026* · [Paper](https://doi.org/10.5281/zenodo.24238471) · [Code & data](https://github.com/yangpengchengstat/beyond-shared-geometry)
 
 - **[Integrating CORUM and Co-Fractionation Mass Spectrometry to Create Enhanced Benchmarks for Protein Complex Predictions](https://doi.org/10.1093/bib/bbaf154)**  
   *Briefings in Bioinformatics*, 2025.
